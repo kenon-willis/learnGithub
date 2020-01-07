@@ -1,0 +1,17 @@
+Thomas, I made this on Tuesday.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Steps:
+
+1) Make a github repository titled "learningGithub"
