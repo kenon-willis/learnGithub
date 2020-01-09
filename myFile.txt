@@ -15,3 +15,20 @@ Thomas, I made this on Tuesday.
 Steps:
 
 1) Make a github repository titled "learningGithub"
+2) Make a folder on your desktop called "MyLearningFolder"
+3) Make a text file with a slogan on it and save it as "myFile" and save it into your folder
+4) Right click the folder and select "git bash here"
+5) Copy your repository address from Github
+6) In the command line type:
+	git init                                               **this initializes a git repository in your folder
+	git remote add origin pasteYourRepositoryNameHere           **this connects your repository
+	git status
+	
+	git add .
+	git status
+	git commit -m "added my favorite slogan"
+	GIT_SSL_NO_VERIFY=true git push origin master
+
+then enter your github credentials
+
+Congratulations! You just pushed your project to your github repo! Check out your repo on github now!
